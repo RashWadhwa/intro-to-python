@@ -55,7 +55,7 @@ while word_list => 3:
 # => ['cats', 'cats', 'cats']
 
 def add_cats_repeatedly(word_list, count):
-  # ...
+   
   return word_list
 
 check_that_these_are_equal(
