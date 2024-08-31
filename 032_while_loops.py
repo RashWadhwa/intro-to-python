@@ -42,6 +42,12 @@ print("")
 print("Function: add_cats_repeatedly")
 
 # Write a function that adds the item "cats" to the given
+word_list = "cats"
+while word_list => 3:
+  print(f"The number is now {word_list}")
+  word_list = word_list + 1
+
+
 # word_list, repeatedly, a number of times defined by the
 # given count parameter.
 # Example:
