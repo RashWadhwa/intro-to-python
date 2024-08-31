@@ -22,7 +22,7 @@ print("")
 print("Function: get_first_item")
 
 def get_first_item(the_list):
-  # Return the first item of the list
+  get_first_item[0]
   pass
 
 check_that_these_are_equal(
@@ -41,6 +41,7 @@ print("")
 print("Function: get_last_item")
 
 def get_last_item(the_list):
+  get_last_item[-1]
   # Return the last item of the list
   pass
 
@@ -60,6 +61,7 @@ print("")
 print("Function: get_nth_item")
 
 def get_nth_item(the_list, n):
+  get_nth_item[0:n]
   # Return the item of the list at the specified index
   pass
 
@@ -79,6 +81,7 @@ print("")
 print("Function: get_items_between_one_and_three")
 
 def get_items_between_one_and_three(the_list):
+  get_items_between_one_and_three[0:4]
   # Return the section of the list between indexes one
   # and three
   pass
